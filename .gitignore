@@ -1,0 +1,5 @@
+#Исключаем db.php
+/config/db.php
+
+#Папка конфигов phpStorm
+.idea
